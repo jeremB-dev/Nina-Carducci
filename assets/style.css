@@ -87,7 +87,7 @@ body {
 }
 #about-me p {
 	width: 80%;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 #gallery {
@@ -102,6 +102,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
+	border: #000;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
