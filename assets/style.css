@@ -436,38 +436,3 @@ input[type=submit] {
 	}
 }
 
-.footer {
-	background-color: #F6D2B8;
-	padding-top: 10px;
-	text-align: center;
-	color: #333;
-	cursor: default;
-}
-
-.footer address {
-	margin-bottom: 10px;
-	font-weight: 700
-}
-
-.footer a {
-	color: #333
-}
-
-.footer a:hover {
-	text-decoration: underline
-}
-
-.footer p {
-	margin: 5px 0;
-	font-size: 14px;
-	font-weight: 700
-}
-
-.footer .protect {
-	font-size: .9em;
-	color: #333;
-	background-color: #e5975f;
-	padding: 10px;
-	width: 100%;
-	font-weight: 700
-}
