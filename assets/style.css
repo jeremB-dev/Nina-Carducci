@@ -391,13 +391,16 @@ input[type=submit] {
 	.top-header .nav ul {
 		width: 100%;
 		padding: 0;
-		margin-left: 10px
 	}
 
 	.top-header .nav li {
 		flex: 1;
 		padding-block: 1em;
 		text-align: center
+	}
+
+	.top-header .nav a {
+		font-size: 12px;
 	}
 
 	.picture.left::before,
